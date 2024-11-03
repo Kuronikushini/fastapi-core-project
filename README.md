@@ -1,0 +1,1 @@
+This is core of fastapi projects. Contains base objects to simplify code.
